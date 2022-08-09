@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/watch_spin.00_00_22_23.Still011.jpg?t=1659932798" />
+    <userInterface showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="false" showTogglePlayButton="false" showArrows="true" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="#FFFFFF" toolbarPosition="0" customCursorClass="default_cursor" viewerHint="" toolbarAutohide="false" showToolbarOnLoadStart="false" skin="basic" />
+    <control dragSpeed="0.13" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" mouseWheelDrag="false" mouseWheelDragZoomOnly="false" allowRotateInputInZoom="false" allowPanX="true" allowPanY="true" dragAcceleration="1" centerZoom="false" maxZoom="100" />
+    <rotation firstImage="10" rotate="false" rotatePeriod="7" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" spinOnPageScroll="false" pageScrollFollow="false" pageScrollDelay="300" pageScrollPeriod="3" />
+  </settings>
+  <hotspots>
+    <hotspot id="spot2" renderMode="0" indicatorImage="circ-cross-thin-blue.svg">
+      <spotinfo txt="Rubber strap" css="font-size:12px;color:#333333;text-align:center;width:102px;padding:10px;border:1px solid #EEEEEE;background-color:rgba(255,255,255,1);" />
+    </hotspot>
+    <hotspot id="spot3" renderMode="0" indicatorImage="circ-cross-thin-blue.svg">
+      <spotinfo txt="Stainless steel back" css="color:#333333;width:200px;padding:15px 15px;border:1px solid #EEEEEE;background-color:rgba(255,255,255,1);" />
+    </hotspot>
+  </hotspots>
+  <images rows="1" highresWidth="1280" highresHeight="720">
+    <image src="images/watch_spin.00_00_10_11.Still001.jpg?t=1659932798">
+      <highres src="images/highres/watch_spin.00_00_10_11.Still001.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_11_18.Still002.jpg?t=1659932798">
+      <highres src="images/highres/watch_spin.00_00_11_18.Still002.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_13_00.Still003.jpg?t=1659932798">
+      <highres src="images/highres/watch_spin.00_00_13_00.Still003.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_14_06.Still004.jpg?t=1659932798">
+      <highres src="images/highres/watch_spin.00_00_14_06.Still004.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_15_12.Still005.jpg?t=1659932798">
+      <highres src="images/highres/watch_spin.00_00_15_12.Still005.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_16_18.Still006.jpg?t=1659932798">
+      <highres src="images/highres/watch_spin.00_00_16_18.Still006.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_18_00.Still007.jpg?t=1659932798">
+      <hotspot source="spot2" offsetX="438" offsetY="207" />
+      <highres src="images/highres/watch_spin.00_00_18_00.Still007.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_19_06.Still008.jpg?t=1659932798">
+      <hotspot source="spot2" offsetX="423" offsetY="207" />
+      <highres src="images/highres/watch_spin.00_00_19_06.Still008.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_20_11.Still009.jpg?t=1659932798">
+      <hotspot source="spot2" offsetX="406" offsetY="207" />
+      <highres src="images/highres/watch_spin.00_00_20_11.Still009.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_21_17.Still010.jpg?t=1659932798">
+      <hotspot source="spot2" offsetX="390" offsetY="207" />
+      <highres src="images/highres/watch_spin.00_00_21_17.Still010.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_22_23.Still011.jpg?t=1659932798">
+      <hotspot source="spot2" offsetX="363" offsetY="207" />
+      <highres src="images/highres/watch_spin.00_00_22_23.Still011.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_24_05.Still012.jpg?t=1659932798">
+      <hotspot source="spot2" offsetX="336" offsetY="207" />
+      <highres src="images/highres/watch_spin.00_00_24_05.Still012.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_25_11.Still013.jpg?t=1659932798">
+      <hotspot source="spot2" offsetX="308" offsetY="207" />
+      <highres src="images/highres/watch_spin.00_00_25_11.Still013.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_26_17.Still014.jpg?t=1659932798">
+      <hotspot source="spot2" offsetX="280" offsetY="212" />
+      <highres src="images/highres/watch_spin.00_00_26_17.Still014.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_27_23.Still015.jpg?t=1659932798">
+      <hotspot source="spot2" offsetX="249" offsetY="208" />
+      <highres src="images/highres/watch_spin.00_00_27_23.Still015.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_29_04.Still016.jpg?t=1659932798">
+      <hotspot source="spot2" offsetX="227" offsetY="204" />
+      <highres src="images/highres/watch_spin.00_00_29_04.Still016.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_30_10.Still017.jpg?t=1659932798">
+      <hotspot source="spot2" offsetX="202" offsetY="202" />
+      <highres src="images/highres/watch_spin.00_00_30_10.Still017.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_31_15.Still018.jpg?t=1659932798">
+      <hotspot source="spot2" offsetX="176" offsetY="201" />
+      <highres src="images/highres/watch_spin.00_00_31_15.Still018.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_32_20.Still019.jpg?t=1659932798">
+      <hotspot source="spot3" offsetX="287" offsetY="130" />
+      <highres src="images/highres/watch_spin.00_00_32_20.Still019.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_34_01.Still020.jpg?t=1659932798">
+      <hotspot source="spot3" offsetX="293" offsetY="131" />
+      <highres src="images/highres/watch_spin.00_00_34_01.Still020.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_35_07.Still021.jpg?t=1659932798">
+      <hotspot source="spot3" offsetX="297" offsetY="131" />
+      <highres src="images/highres/watch_spin.00_00_35_07.Still021.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_36_13.Still022.jpg?t=1659932798">
+      <hotspot source="spot3" offsetX="303" offsetY="131" />
+      <highres src="images/highres/watch_spin.00_00_36_13.Still022.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_37_19.Still023.jpg?t=1659932798">
+      <hotspot source="spot3" offsetX="309" offsetY="131" />
+      <highres src="images/highres/watch_spin.00_00_37_19.Still023.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_39_01.Still024.jpg?t=1659932798">
+      <hotspot source="spot3" offsetX="313" offsetY="131" />
+      <highres src="images/highres/watch_spin.00_00_39_01.Still024.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_40_07.Still025.jpg?t=1659932798">
+      <hotspot source="spot3" offsetX="319" offsetY="131" />
+      <highres src="images/highres/watch_spin.00_00_40_07.Still025.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_41_13.Still026.jpg?t=1659932798">
+      <hotspot source="spot3" offsetX="328" offsetY="129" />
+      <highres src="images/highres/watch_spin.00_00_41_13.Still026.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_42_19.Still027.jpg?t=1659932798">
+      <highres src="images/highres/watch_spin.00_00_42_19.Still027.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_44_01.Still028.jpg?t=1659932798">
+      <highres src="images/highres/watch_spin.00_00_44_01.Still028.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_45_07.Still029.jpg?t=1659932798">
+      <highres src="images/highres/watch_spin.00_00_45_07.Still029.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_46_13.Still030.jpg?t=1659932798">
+      <highres src="images/highres/watch_spin.00_00_46_13.Still030.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_47_19.Still031.jpg?t=1659932798">
+      <highres src="images/highres/watch_spin.00_00_47_19.Still031.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_49_01.Still032.jpg?t=1659932798">
+      <highres src="images/highres/watch_spin.00_00_49_01.Still032.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_50_07.Still033.jpg?t=1659932798">
+      <highres src="images/highres/watch_spin.00_00_50_07.Still033.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_51_13.Still034.jpg?t=1659932798">
+      <highres src="images/highres/watch_spin.00_00_51_13.Still034.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_52_19.Still035.jpg?t=1659932798">
+      <highres src="images/highres/watch_spin.00_00_52_19.Still035.jpg?t=1659932798" />
+    </image>
+    <image src="images/watch_spin.00_00_54_01.Still036.jpg?t=1659932798">
+      <highres src="images/highres/watch_spin.00_00_54_01.Still036.jpg?t=1659932798" />
+    </image>
+  </images>
+</config>
